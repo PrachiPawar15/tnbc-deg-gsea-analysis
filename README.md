@@ -39,3 +39,30 @@ Publicly available gene expression datasets obtained from the Gene Expression Om
 - Statistical modeling for gene expression analysis
 - Pathway enrichment analysis
 - Integrative interpretation of multi-step genomic workflows
+
+
+## Key Visualizations
+
+### PCA Plot
+![PCA Plot](results/PCA_plot_tnbc.png)
+
+### Volcano Plot
+![Volcano Plot](results/Volcano_plot_tnbc.png)
+
+### Enriched Downregulated Pathways
+![Downregulated Pathways](results/Enriched_downreg_pathways.png)
+
+### Enriched Upregulated Pathways
+![Upregulated Pathways](results/Enriched_upreg_pathways.png)## Key Visualizations
+
+### PCA Plot
+![PCA Plot](results/PCA_plot_tnbc.png)
+
+### Volcano Plot
+![Volcano Plot](results/Volcano_plot_tnbc.png)
+
+### Enriched Downregulated Pathways
+![Downregulated Pathways](results/Enriched_downreg_pathways.png)
+
+### Enriched Upregulated Pathways
+![Upregulated Pathways](results/Enriched_upreg_pathways.png)
